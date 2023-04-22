@@ -4,7 +4,6 @@
 #include <iostream>
 #include <curl/curl.h>
 #include <stdio.h>
-#include <exception>
 
 using namespace std;
 
