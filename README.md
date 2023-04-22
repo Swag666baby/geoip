@@ -1,3 +1,3 @@
-# geoip
-Um simples codigo consumindo a api ipwhois, parte dos meus estudos sobre cpp.
-**preparando ambiente**
+# necessário clang instalado.
+g++ main.cpp -o main -lcurl
+./main
