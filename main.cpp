@@ -56,7 +56,8 @@ int main()
             cout << "estado: " << d["region"].GetString() << std::endl;
             cout << "cidade: " << d["city"].GetString() << std::endl;
             cout << "asn: " << d["asn"].GetString() << std::endl;
-            cout << "org: " << d["org"].GetString() << std::endl;            cout << "latitude: " << d["latitude"].GetDouble() << std::endl;
+            cout << "org: " << d["org"].GetString() << std::endl;
+            cout << "latitude: " << d["latitude"].GetDouble() << std::endl;
             cout << "longitude: " << d["longitude"].GetDouble() << std::endl;
             
             cout << "\nobrigado por usar :)";
