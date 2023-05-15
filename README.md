@@ -1,6 +1,6 @@
-# necessário clang instalado.
+# needed clang installed, curl library and rapidjson. 
 ```
-g++ main.cpp -o main -lcurl
+g++ main.cpp -o main -lcurl -lrapidjson
 ```
 ```
 ./main
