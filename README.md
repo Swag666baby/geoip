@@ -14,5 +14,6 @@ g++ main.cpp -o main -lcurl -lrapidjson
 or 
 # just run 
 ```
+cd geoip
 ./main
 ```
