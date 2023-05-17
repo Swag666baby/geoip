@@ -5,12 +5,14 @@
 apt-get install git
 git clone https://github.com/Swag666baby/geoip
 ```
-# compiling 
+# compiling and running 
 ```
 cd geoip
 g++ main.cpp -o main -lcurl -lrapidjson
+./main
 ```
-# running 
+or 
+# just run 
 ```
 ./main
 ```
