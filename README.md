@@ -15,5 +15,6 @@ or
 # just run 
 ```
 cd geoip
+chmod +x main
 ./main
 ```
