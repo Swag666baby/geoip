@@ -1,4 +1,5 @@
-# needed clang installed, curl library and rapidjson. 
+# to compile you will need clang installed on your machine and the curl and rapidjson libraries. 
+
 
 # installation 
 ```
